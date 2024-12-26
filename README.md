@@ -1,1 +1,1 @@
-# masters-keyboard
+Master Keyboard is a unique website designed to make learning touch typing fun and effective. Built with HTML, CSS, and JavaScript, it offers a comprehensive learning experience with interactive games, engaging videos, and structured lessons. Users can track their progress and even earn certificates as they
